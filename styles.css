@@ -75,7 +75,7 @@
   /* Hero Section */
   .hero {
     padding: 120px 0 60px;
-    background-image: url('/image/background.png');
+    background-image: url('image/background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -212,7 +212,7 @@
   /* Products Section */
   .products {
     padding: 120px 0 60px;
-    background-image: url('/image/background.png');
+    background-image: url('image/background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
